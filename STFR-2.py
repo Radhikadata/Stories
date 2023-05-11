@@ -2,9 +2,9 @@
 # coding: utf-8
 
 # In[1]:
+import os
 
-
-DATA_FOLDER = "/Users/radhika/Downloads/Radhika-Maps"
+DATA_FOLDER = os.getcwd()
 
 
 # In[2]:
